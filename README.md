@@ -24,4 +24,10 @@ then just access it using cat command<br>
 Password for level 4: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 # Level 4
-Used reset command to clear the terminal
+Used reset command to clear the terminal<br>
+to find the type of file used command -> file ./* <br>
+then accessed the ascii text which is human-readable<br>
+cat ./-file07
+<br>
+Password for next level: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
